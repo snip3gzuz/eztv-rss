@@ -3,12 +3,12 @@
     "imdb_id": "tt31589662",
     "title": "Georgie and Mandy's First Marriage",
     "quality": "1080p",
-    "excluded_seasons": []
+    "excluded_seasons": [1]
   },
   {
     "imdb_id": "tt19231492",
     "title": "Dark Matter",
     "quality": "1080p",
-    "excluded_seasons": []
+    "excluded_seasons": [1]
   }
 ]
