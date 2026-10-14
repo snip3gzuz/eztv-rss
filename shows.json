@@ -2,79 +2,79 @@
   {
     "imdb_id": "tt37063558",
     "title": "GR.J. Decker",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1]
   },
-   {
+  {
     "imdb_id": "tt40385667",
     "title": "Treasure Island",
     "quality": "2160p / 1080p",
     "excluded_seasons": []
   },
- {
+  {
     "imdb_id": "tt7520794",
     "title": "Russian Doll",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1,2]
   },
-   {
+  {
     "imdb_id": "tt5348176",
     "title": "Barry",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1,2,3,4]
   },
   {
     "imdb_id": "tt11379026",
     "title": "Ghosts",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1,2,3,4,5]
   },
-   {
+  {
     "imdb_id": "tt31491435",
     "title": "Tires",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1,2]
   },
-   {
+  {
     "imdb_id": "tt27497393",
     "title": "Stuart Fails to Save the Universe",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1]
   },
-   {
+  {
     "imdb_id": "tt18070984",
     "title": "Average Joe",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1,2]
   },
-   {
+  {
     "imdb_id": "tt13443470",
     "title": "Wednesday",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1,2]
   },
   {
     "imdb_id": "tt14261112",
     "title": "Twisted Metal",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1,2]
   },
-   {
+  {
     "imdb_id": "tt8622160",
     "title": "Star Trek: Starfleet Academy",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1]
   },
-   {
+  {
     "imdb_id": "tt31589662",
     "title": "Georgie and Mandy's First Marriage",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1]
   },
   {
     "imdb_id": "tt19231492",
     "title": "Dark Matter",
-    "quality": "1080p",
+    "quality": "2160p / 1080p",
     "excluded_seasons": [1]
   }
 ]
